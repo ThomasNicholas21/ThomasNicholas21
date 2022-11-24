@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, meu nome Thomas Nicholas ✌️<br>Sou estudante de engenharia de software e seja bem-vindo ao meu git 😊<br>Atualmente estou estudando python, sua framework django, SQL, HTML e CSS 💻<br>Meu nível de inglês é avançado 🔤 <br>
+Olá, meu nome é Thomas Nicholas ✌️<br>Sou estudante de engenharia de software e seja bem-vindo ao meu GitHub 😊<br>Atualmente estou estudando Python, Django, SQL, HTML e CSS 💻<br>Meu nível de inglês é avançado 🔤 <br>
 
 
 ## 🌐 Contatos:
