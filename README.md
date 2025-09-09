@@ -57,17 +57,3 @@ Já atuei como analista de suporte, o que me deu uma boa base de infraestrutura 
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ThomasNicholas21&theme=tokyonight&hide_border=true&short_numbers=true"/>
 </div>
-
-
-### ⚡ Atividade Recentes
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=ThomasNicholas21&bg_color=1a1b27&color=82AAFF&line=7DCFFF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ThomasNicholas21?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
-
-</div>
-
-
